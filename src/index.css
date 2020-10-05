@@ -47,11 +47,3 @@ h1 {
   padding-top: 75px;
   margin: 0;
 }
-
-/* .roombaLoc::before {
-  content: "Read this: ";
-} */
-
-.roombaLoc::first-letter {
-  content: ", ";
-}
