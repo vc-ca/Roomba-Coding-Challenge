@@ -3,7 +3,7 @@ jesseking@gmail.com
 
 Replace the data.json file with similarly structured data, and run with npm start
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
